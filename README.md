@@ -26,4 +26,5 @@ Aquí ya realicé varios cambios en GitHub, respondiendo todas las preguntas del
 ## 👤 Sobre mí
 Nombre: Paúl Borja
 Curso: Diploma 1 A
-01-04-2026
+06-04-2026
+9:46 am
